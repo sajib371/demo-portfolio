@@ -8,7 +8,7 @@ h1{
 .sj{
     color: orange;
 }
-section{
+.middle{
     display: flex;
     margin-bottom: 150px;
 }
@@ -33,7 +33,7 @@ section{
     background-repeat: no-repeat;
 }
 .sss{
-    padding-bottom: 10px;
+ 
     text-align: justify;
 }
 #sd{
@@ -43,4 +43,33 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.exp{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 6%;
+    margin-right: 6%;
+    width: 40%;
+}
+.hi{
+    padding-right: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.abc{
+    padding-top: 60px;
+    font-size: 30px;
+}
+.def{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#fg{
+    border-left: 12px solid salmon;
+}
+#lm{
+    border-left: 12px solid blue;
+}
+footer{
+    text-align: center;
 }
